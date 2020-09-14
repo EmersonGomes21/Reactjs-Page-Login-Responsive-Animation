@@ -2,10 +2,12 @@
 <h1 align="center">
 Esta é uma página de login feita com React.js, totalmente responsiva e com animações. 
 </h1>
+</br>
   
 <h4 align="center">
   ☕ Code and coffee
 </h4>
+</br>
 
 <h2> Click na imagem para ter acesso ao video de apresentação da página.</h2>
 
