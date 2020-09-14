@@ -1,15 +1,16 @@
 
-
+<h1 align="center">
+Esta é uma página de login feita com React.js, totalmente responsiva e com animações. 
+</h1>
+  
 <h4 align="center">
   ☕ Code and coffee
 </h4>
 
 <br>
+<h2> Click na imagem para ter acesso ao video de apresentação da página.</h2>
 
-<p align="center">
-  <img alt="imagem page-login" src="https://github.com/EmersonGomes21/Reactjs-Page-Login-Responsive-Animation/blob/master/page-login.PNG" width="900px">
-</p>
-
+[![Watch the video](https://github.com/EmersonGomes21/Reactjs-Page-Login-Responsive-Animation/blob/master/page-login.PNG)](https://www.youtube.com/embed/reJlYg3DoW0)
 
 ## :memo: Licença
 
